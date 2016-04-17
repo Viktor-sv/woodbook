@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="development" uuid="78d1028e-244b-45a5-909a-8a8a16fd666e">
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails woodbook: development" uuid="e39919b1-fcf9-4569-9b35-0daada9779ea">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
